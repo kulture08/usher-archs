@@ -5,7 +5,9 @@ import styled from "styled-components";
 const Wrapper = styled.section`
   margin: 10% 0 0 0;
   padding: 5%;
-
+  @media (min-width: 1200px) {
+    margin-top: 20% !important;
+  }
   .inter-inner {
     position: relative;
 
