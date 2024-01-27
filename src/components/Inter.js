@@ -200,7 +200,7 @@ function Inter() {
       <div class="inter-inner">
             <div class="blue"></div>
             <div class="image">
-                <img src="./images/intergrated.png" alt="image"/>
+                <img src="./images/intergrated.png" alt="images"/>
             </div>
             <div class="text">
                 <h3>Integrated POS</h3>

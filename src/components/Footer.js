@@ -109,7 +109,6 @@ const Wrapper = styled.section`
         position: absolute;
         top: 31%;
         left: 11%;
-        
       }
     }
     form {
